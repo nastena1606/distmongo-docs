@@ -3,6 +3,7 @@ on:
   push:
     branches: 
       - 4.4
+      - DISTMONGO-4.4-200
 
 jobs:
   build:
